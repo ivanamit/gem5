@@ -3,7 +3,7 @@
 This is the repository for the gem5 simulator. It contains the full source code
 for the simulator and all tests and regressions.
 
-The gem5 simulator is a modular platform for computer-system architecture
+he gem5 simulator is a modular platform for computer-system architecture
 research, encompassing system-level architecture as well as processor
 microarchitecture. It is primarily used to evaluate new hardware designs,
 system software changes, and compile-time and run-time system optimizations.
